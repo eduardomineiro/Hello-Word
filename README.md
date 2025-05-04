@@ -1,2 +1,2 @@
-# Hello-Word
+# Helo-Word
 Aprendizado da Alura Start
